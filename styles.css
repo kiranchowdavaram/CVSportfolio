@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.about{
+    display: flex;
+    font-size: 14px;
+    background-color: #c2a8c1;
+    justify-content: space-between;
+    padding: 20px;
+    margin-bottom: 15px;
+    align-items: center;
+}
+.name{
+    color:whitesmoke;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+}
+.content{
+    color: orange;
+    font-size: 25px;
+}
+.list{
+    margin: 20px;
+}
+.cont{
+    margin: 20px;
+
+
+}
+.project{
+    margin: 20px;
+}
+.pos{
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+
+}
+.list h1{
+    color:orange;
+    font-size: 25px;
+}
+.project h1{
+     color:orange;
+    font-size: 25px;
+}
